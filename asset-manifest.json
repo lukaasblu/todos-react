@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/todos-react/static/css/main.cbb67734.css",
+    "main.js": "/todos-react/static/js/main.ca6019b7.js",
+    "static/js/787.c1a87eff.chunk.js": "/todos-react/static/js/787.c1a87eff.chunk.js",
+    "static/media/Montserrat-Regular.ttf": "/todos-react/static/media/Montserrat-Regular.3cd786652b8a2e9d41f2.ttf",
+    "static/media/Comfortaa-SemiBold.ttf": "/todos-react/static/media/Comfortaa-SemiBold.27c17c7d3a2cf901da9d.ttf",
+    "static/media/Comfortaa-Regular.ttf": "/todos-react/static/media/Comfortaa-Regular.99567c98d6afc8602fd7.ttf",
+    "static/media/Comfortaa-Light.ttf": "/todos-react/static/media/Comfortaa-Light.a5389d8a98b082e450a2.ttf",
+    "static/media/Comfortaa-Medium.ttf": "/todos-react/static/media/Comfortaa-Medium.7897f74542afba0f8b88.ttf",
+    "static/media/Comfortaa-Bold.ttf": "/todos-react/static/media/Comfortaa-Bold.c7cb6106414da0a0511a.ttf",
+    "static/media/Bangers-Regular.ttf": "/todos-react/static/media/Bangers-Regular.62caecd7b9210f2ab807.ttf",
+    "index.html": "/todos-react/index.html",
+    "main.cbb67734.css.map": "/todos-react/static/css/main.cbb67734.css.map",
+    "main.ca6019b7.js.map": "/todos-react/static/js/main.ca6019b7.js.map",
+    "787.c1a87eff.chunk.js.map": "/todos-react/static/js/787.c1a87eff.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cbb67734.css",
+    "static/js/main.ca6019b7.js"
+  ]
+}
