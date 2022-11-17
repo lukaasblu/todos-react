@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/todos-react/static/css/main.58d8bdc7.css",
-    "main.js": "/todos-react/static/js/main.eb36d391.js",
+    "main.css": "/todos-react/static/css/main.b7c22ae3.css",
+    "main.js": "/todos-react/static/js/main.9119bc04.js",
     "static/js/787.c1a87eff.chunk.js": "/todos-react/static/js/787.c1a87eff.chunk.js",
     "static/media/Montserrat-Regular.ttf": "/todos-react/static/media/Montserrat-Regular.3cd786652b8a2e9d41f2.ttf",
     "static/media/Comfortaa-SemiBold.ttf": "/todos-react/static/media/Comfortaa-SemiBold.27c17c7d3a2cf901da9d.ttf",
@@ -10,13 +10,15 @@
     "static/media/Comfortaa-Medium.ttf": "/todos-react/static/media/Comfortaa-Medium.7897f74542afba0f8b88.ttf",
     "static/media/Comfortaa-Bold.ttf": "/todos-react/static/media/Comfortaa-Bold.c7cb6106414da0a0511a.ttf",
     "static/media/Bangers-Regular.ttf": "/todos-react/static/media/Bangers-Regular.62caecd7b9210f2ab807.ttf",
+    "static/media/undraw_no_data_light.svg": "/todos-react/static/media/undraw_no_data_light.8f0a0ff4aa573985a712c182c9d05163.svg",
+    "static/media/undraw_no_data_dark.svg": "/todos-react/static/media/undraw_no_data_dark.4d6ad9a103dfe1f10734083a9d922837.svg",
     "index.html": "/todos-react/index.html",
-    "main.58d8bdc7.css.map": "/todos-react/static/css/main.58d8bdc7.css.map",
-    "main.eb36d391.js.map": "/todos-react/static/js/main.eb36d391.js.map",
+    "main.b7c22ae3.css.map": "/todos-react/static/css/main.b7c22ae3.css.map",
+    "main.9119bc04.js.map": "/todos-react/static/js/main.9119bc04.js.map",
     "787.c1a87eff.chunk.js.map": "/todos-react/static/js/787.c1a87eff.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.58d8bdc7.css",
-    "static/js/main.eb36d391.js"
+    "static/css/main.b7c22ae3.css",
+    "static/js/main.9119bc04.js"
   ]
 }
